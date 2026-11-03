@@ -26,3 +26,5 @@ Button(root, text="Dashboard", width=30, bg="#3afcfc", command=dashboard_gui).pa
 Button(root, text="Exit", width=30, bg="#33d6f6", fg="white", command=root.destroy).pack(pady=5)
 
 root.mainloop()
+#updated in feature-update branch
+
